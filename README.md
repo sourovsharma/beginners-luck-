@@ -1,2 +1,2 @@
 # beginners-luck-
-walking the path to become the forefather of AI
+walking the path to becomeing the forefather of AI
